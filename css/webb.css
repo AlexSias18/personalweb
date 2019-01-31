@@ -1,0 +1,188 @@
+.front {
+	width: 1500px;
+	height: 540px;
+
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	
+
+}
+.menu {
+	font-size: 20px;
+	display: inline-block;
+	position: absolute;
+	right: 54px;
+	top:69px;
+	margin-right: 100px;
+
+}
+.titulo {
+	font-family: 'Oswald', sans-serif;
+	font-size: 45px;
+	margin-bottom: 15px;
+}
+.menu li {
+	display: inline-block;
+	margin-left: 30px;
+
+}
+.menu a {
+	text-decoration: none;
+	color: black;
+}
+.header {
+	margin-top: 47px;
+	padding-left: 100px;
+}
+.imagenes {
+	margin-left: 0px;
+	position: relative;
+	background-color: #B1B2B3;
+
+}
+.imagenes2 {
+	margin-left: 0px;
+	position: relative;
+	background-color: #B1B2B3;
+
+}
+.balon{
+	float: left;
+	position: relative;
+
+}
+.mundo{
+	float: left;
+	position: relative;
+}
+.bici{
+	float: left;
+	position: relative;
+}
+.tren{
+	float: left;
+	position: relative;
+}
+.mujer{
+	float: left;
+	position: relative;
+}
+.shoe{
+	float: left;
+	position: relative;
+}
+.compu{
+	float: left;
+	position: relative;
+}
+
+.espacio{
+	float: left;
+	position: relative;
+}
+.ciudad{
+	float: left;
+	position: relative;
+}
+.info {
+	width: 1500px;
+	height: 300px;
+}
+.frontend{
+	margin-top: 80px;
+    margin-left: 239px;
+}
+.uno{
+	font-family: 'Open Sans', sans-serif;
+	font-size:30px;
+}
+.parra{
+	width: 400px;
+	font-size: 15px;
+}
+
+.dos{
+	font-family: 'Open Sans', sans-serif;
+	font-size:30px;
+}
+.parra2{
+	width: 400px;
+	font-size: 15px;
+}
+.backend{
+	position: relative;
+    /* margin-top: 80px; */
+    /* margin-left: 239px; */
+    align-items: flex-start;
+    /* right: -141px; */
+    left: 820px;
+    width: 400px;
+    top: -223px;
+}
+.logo1{
+	position: relative;
+    float: left;
+    padding-right: 17px;
+    bottom: -3px;
+}
+.logo2{
+	position: relative;
+    float: left;
+    padding-right: 17px;
+    bottom: -4px;
+}
+.desc{
+	font-family: 'PT Sans', sans-serif;
+	margin-bottom: 34px;
+    margin-top: -6px;
+}
+.foto{
+	background-image:url('../images/grande.jpg') ;
+	background-size:cover;
+	position: relative;
+	width: 830px;
+	height:718px;
+	display: inline-block;
+}
+.infos{
+	position: relative;
+	margin-left: 0px;
+display: inline-block;
+	width: 600px;
+	height:200px;
+	left: 30px;
+	top: -250px;
+}
+.fotoy {
+	margin-left: 120px;
+	padding-right: 47px;
+}
+.parrafoto {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.button {
+	border: none;
+    border-radius: 12px;    
+    color: white;
+    padding: 17px 38px 17px 38px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+    background: #180B44;
+    padding-left: 66px;
+    padding-right: 66px;
+    margin-left: 87px;
+    margin-top: 98px;
+    position: relative;
+    top: 38px;
+}
+.titu2{
+	    margin-left: -22px;
+	    font-size: 30px;
+}
+.parrafoto{
+	font-size: 18px;
+}
